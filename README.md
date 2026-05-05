@@ -23,7 +23,8 @@ Lab Assignment No. 1 – 2 cisco certificates
 
 
 Activity 1- Importance of Data Visualization certificate 
-<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/00426440-2ca6-4289-8a97-2b34a54d62c8" />
+<img width="951" height="590" alt="Screenshot 2026-05-05 191358" src="https://github.com/user-attachments/assets/46471b88-c4aa-45de-ba86-5d3766c037ab" />
+
 
 
 Codetantra completion- 
