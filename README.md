@@ -13,6 +13,8 @@ Lab Assignment No. 1 – 2 cisco certificates
 
 <img width="826" height="593" alt="image" src="https://github.com/user-attachments/assets/ad8a4239-0352-4447-a04c-fd7ef120bcb5" />
 
+
+
 <img width="826" height="594" alt="image" src="https://github.com/user-attachments/assets/1edd77f8-ee82-469d-af04-6ffc529c8c0f" />
 
 
