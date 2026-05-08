@@ -28,5 +28,9 @@ Activity 1- Importance of Data Visualization certificate
 
 
 Codetantra completion- 
-
+Lab completion
 <img width="1365" height="635" alt="Screenshot 2026-05-05 193933" src="https://github.com/user-attachments/assets/1cd924c2-2b90-4172-b1d8-6cc69a801933" />
+Theory
+<img width="1365" height="632" alt="image" src="https://github.com/user-attachments/assets/852bd815-2575-410c-8f98-1dd09c834929" />
+
+
